@@ -1,8 +1,8 @@
-# SMILE
+# LOIS
 Red social de proposito general con PHP y MySQL
 
 ### Descripcion
-SMILE es un sistema de red social en el que podemos rellenar nuestro perfil, hacer publicaciones de texto y/o imagenes, buscar amigos, enviar, recibir y aceptar solicitudes de amistad y enviar mensajes a amigos, comentar y/o dar likes a las publicaciones, recibir notificaciones y mucho mas.
+LOIS es un sistema de red social en el que podemos rellenar nuestro perfil, hacer publicaciones de texto y/o imagenes, buscar amigos, enviar, recibir y aceptar solicitudes de amistad y enviar mensajes a amigos, comentar y/o dar likes a las publicaciones, recibir notificaciones y mucho mas.
 
 ### Dedicatoria
 Este sistema se lo dedico a mis padres(Agustin Ramos de la Cruz y Maria de Lourdes Escalante Mendez) por que desde que empece en el mundo de las computadoras ellos me dieron su apoyo emocional y economico, me compraron computadoras, me pagaron mis estudios universitarios, estoy muy agradecido con ellos, los amo.
